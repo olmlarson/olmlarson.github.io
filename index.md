@@ -9,7 +9,7 @@
 
 ---
 [Thematic Mapping of San Juan County, New Mexico](https://storymaps.arcgis.com/stories/7f2b3fe489474eb2b227fcd240a96c21)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SanJuanThematicThumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
