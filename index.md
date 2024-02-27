@@ -5,7 +5,7 @@
 ### Undergraduate Intredisciplinary Capstone 
 
 [Story Map Link](https://arcg.is/0yPLmv)
-<img src="images/UGcapstonethumbnail.jpg?raw=true"/>
+<img src="images/UGcapstonethumbnail1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
