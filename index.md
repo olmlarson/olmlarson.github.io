@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Undergraduate Intredisciplinary Capstone 
 
-[Undergraduate Interdisciplinary Capstone](https://arcg.is/0yPLmv)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Story Map Link](https://arcg.is/0yPLmv)
+<img src="images/UGcapstonethumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
