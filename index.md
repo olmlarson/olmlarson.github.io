@@ -8,7 +8,9 @@
 <img src="images/UGcapstonethumbnail1.jpg?raw=true"/>
 
 ---
-[Thematic Mapping of San Juan County, New Mexico](https://storymaps.arcgis.com/stories/7f2b3fe489474eb2b227fcd240a96c21)
+
+### Thematic Mapping of San Juan County, New Mexico
+[Story Map Link](https://storymaps.arcgis.com/stories/7f2b3fe489474eb2b227fcd240a96c21)
 <img src="images/SanJuanThematicThumbnail.jpg?raw=true"/>
 
 ---
