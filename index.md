@@ -14,7 +14,9 @@
 <img src="images/SanJuanThematicThumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+### 
+[Schools Within Liquefaction Zones on Wasatch Front Utah](/pdf/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
