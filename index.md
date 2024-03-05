@@ -17,7 +17,7 @@
 
 ### 
 [Schools Within Liquefaction Zones on Wasatch Front Utah](/pdf/liquefactionmap3.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/liquefactionthumbnail.jpg?raw=true"/>
 
 ---
 
