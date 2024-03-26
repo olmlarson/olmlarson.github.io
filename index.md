@@ -23,7 +23,7 @@
 
 ### Split Panel View of Orem, Utah IU Sample Points and Groupings
 [Google Earth Engin Web App Link](https://olmlrpd1.projects.earthengine.app/view/split-panel-orem-siu-points-vs-groups)
-<img src="images/GEE1.jpg?raw=true"/>
+<img src="images/GEE2.jpg?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
