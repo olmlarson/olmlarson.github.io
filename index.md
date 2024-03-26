@@ -21,7 +21,9 @@
 
 ---
 
-### Category Name 2
+### Split Panel View of Orem, Utah IU Sample Points and Groupings
+[Google Earth Engin Web App Link](https://olmlrpd1.projects.earthengine.app/view/split-panel-orem-siu-points-vs-groups)
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
